@@ -228,3 +228,4 @@ Thanks for using this project! I'm always interested in seeing what people do wi
 
 Please star this project, share it on Social Media or consider supporting me on [GitHub Sponsors](https://github.com/sponsors/LekoArts)!
 # gatsby-starter-minimal-blog
+# gatsby-starter-minimal-blog
